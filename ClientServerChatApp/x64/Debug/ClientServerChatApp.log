@@ -1,0 +1,9 @@
+﻿  ClientServerChatApp.cpp
+C:\Users\caleb\Desktop\FullSail\Classes\Class26\ClientServerChatApp\ClientServerChatApp\ClientServerChatApp.cpp(129,98): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\caleb\Desktop\FullSail\Classes\Class26\ClientServerChatApp\ClientServerChatApp\ClientServerChatApp.cpp(331,40): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+C:\Users\caleb\Desktop\FullSail\Classes\Class26\ClientServerChatApp\ClientServerChatApp\ClientServerChatApp.cpp(385,21): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\caleb\Desktop\FullSail\Classes\Class26\ClientServerChatApp\ClientServerChatApp\ClientServerChatApp.cpp(401,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\caleb\Desktop\FullSail\Classes\Class26\ClientServerChatApp\ClientServerChatApp\ClientServerChatApp.cpp(461,43): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+C:\Users\caleb\Desktop\FullSail\Classes\Class26\ClientServerChatApp\ClientServerChatApp\ClientServerChatApp.cpp(590,51): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+C:\Users\caleb\Desktop\FullSail\Classes\Class26\ClientServerChatApp\ClientServerChatApp\ClientServerChatApp.cpp(656,47): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+  ClientServerChatApp.vcxproj -> C:\Users\caleb\Desktop\FullSail\Classes\Class26\ClientServerChatApp\x64\Debug\ClientServerChatApp.exe
